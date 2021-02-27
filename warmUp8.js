@@ -1,6 +1,6 @@
 // Style your code and explain it step by step before jumping to code :D
 // Read carefully, focus and test your code :) ... /\ HaPPy HaCkInG /\
-
+var a={}
 
 /**
  * 1. Write a JavaScript function called (isArray) to check whether an `input` is an array or not
