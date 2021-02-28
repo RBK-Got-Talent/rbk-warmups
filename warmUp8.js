@@ -11,7 +11,7 @@
  * @return {boolean}
  */
 function isArray(array) {
-
+    return
 }
 
 
